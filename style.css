@@ -1,0 +1,26 @@
+		#rcorners1 {
+			border-radius: 25px;
+			background: #73AD21;
+			padding: 20px; 
+			width: 760px;
+			height: 35px;  
+		}
+		.title {
+			font-size: 24px;
+			color: #F4D03F ;
+		}
+
+		.text {
+			font-size: 18px;
+			color: grey;
+			text-align: justify;
+ 			text-justify: inter-word;
+		}
+
+		/*body {
+		background-color: 
+		}*/
+
+		img{
+			width: 800px;
+		}
