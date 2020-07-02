@@ -1,2 +1,0 @@
-# Nature-Reserves
-ბოლო დავალება
